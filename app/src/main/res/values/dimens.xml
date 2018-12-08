@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_extra_large">22dp</dimen>
+
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+    <dimen name="text_extra_large">22sp</dimen>
+
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="cardview_elevation">4dp</dimen>
+    <dimen name="cardview_corner_radius">4dp</dimen>
+    <dimen name="cardview_margin">10dp</dimen>
+    <dimen name="step_count_size">22sp</dimen>
+</resources>
